@@ -49,3 +49,45 @@ void merge(vector<int>& nums1, int m, vector<int>& nums2, int n) {
         }
     }
 }
+
+// Works for all ranges of values of elements of arrays
+void merge(vector<int>& nums1, int m, vector<int>& nums2, int n) {
+    // for(int i=m; i<m+n; i++){
+    //     nums1[i] = nums2[i-m];
+    // }
+    // sort(nums1.begin(), nums1.end());
+    if(m==0&&n!=0){
+        nums1 = nums2;
+        return;
+    }else if(m!=0&&n==0){
+        return;
+    }
+    int l1 = m-1;
+    int l2 = n-1;
+    int i = m+n-1; 
+    while(l1>=0 && l2>=0){
+        if(nums1[l1]>=nums2[l2]){
+            int temp = nums1[i];
+            nums1[i] = nums1[l1];
+            nums1[l1] = temp;
+            i--;
+            l1--;
+        }else{
+            int temp = nums1[i];
+            nums1[i] = nums2[l2];
+            nums2[l2] = temp;
+            l2--;
+            i--;
+        }
+    }
+    // while(l1>=0){
+    //     nums1[i] = nums1[l1];
+    //     i--;
+    //     l1--;
+    // }
+    while(l2>=0){
+        nums1[i] = nums2[l2];
+        i--;
+        l2--;
+    }
+}

@@ -24,6 +24,7 @@ return ans;
 
 // this method will only work when
 // the given array is sorted already
+// else it wont
 vector<int> twoSum(vector<int> nums, int target){
     int l=0, r=nums.size()-1;
     vector<int> ans(2);
