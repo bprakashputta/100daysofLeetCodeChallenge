@@ -12,3 +12,7 @@ I am taking up the 100 days of LeetCode challenge to challenge mysellf over main
 ## Day3
 1. Intersection of Arrays
 2. Best time to buy and sell shares
+
+## Day4
+1. Reshape Matrix
+2. Pascal Triangle
