@@ -2,9 +2,9 @@
 
 I am taking up the 100 days of LeetCode challenge to challenge mysellf over maintaining continuity, improving coding and algorithmic skills, bettering my overall skills and abilities.
 
-## Prerequisites
-Language:- C++, Java
-Domain:- Data Structures and Algorithms
+## Prerequisites**
+**Language:-** _C++, Java_ \
+**Domain:-** Data Structures and Algorithms
 
 ## Day1
 
