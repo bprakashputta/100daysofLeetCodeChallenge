@@ -31,3 +31,8 @@ I am taking up the 100 days of LeetCode challenge to challenge mysellf over main
 
 1. Valid Sudoku
 2. Search Sorted 2D Matrix
+
+## Day6
+1. First Unique Character in String
+2. RansomNote
+3. Is Anagram
