@@ -42,3 +42,7 @@ I am taking up the 100 days of LeetCode challenge to challenge mysellf over main
 2. Merge Two Sorted Lists
 3. Remove Linked List Elements
 4. Remove Node from List 
+
+## Day8
+1. Reverse LinkedList
+2. Delete Duplicates from LinkedList
