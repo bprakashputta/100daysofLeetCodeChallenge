@@ -36,3 +36,13 @@ I am taking up the 100 days of LeetCode challenge to challenge mysellf over main
 1. First Unique Character in String
 2. RansomNote
 3. Is Anagram
+
+## Day7
+1. Linked List has Cycle
+2. Merge Two Sorted Lists
+3. Remove Linked List Elements
+4. Remove Node from List 
+
+## Day8
+1. Reverse LinkedList
+2. Delete Duplicates from LinkedList
