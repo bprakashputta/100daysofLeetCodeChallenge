@@ -50,3 +50,8 @@ I am taking up the 100 days of LeetCode challenge to challenge mysellf over main
 ## Day9
 1. Valid Parenthesis
 2. Queue Using Stack
+
+## Day10
+1. Pre-Order Traversal
+2. In-Order Traversal
+3. Post-Order Traversal
