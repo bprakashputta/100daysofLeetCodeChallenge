@@ -46,3 +46,7 @@ I am taking up the 100 days of LeetCode challenge to challenge mysellf over main
 ## Day8
 1. Reverse LinkedList
 2. Delete Duplicates from LinkedList
+
+## Day9
+1. Valid Parenthesis
+2. Queue Using Stack
