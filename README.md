@@ -55,3 +55,7 @@ I am taking up the 100 days of LeetCode challenge to challenge mysellf over main
 1. Pre-Order Traversal
 2. In-Order Traversal
 3. Post-Order Traversal
+
+## Day11
+1. Symmetric Tree
+2. maximum Depth
