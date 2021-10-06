@@ -59,3 +59,6 @@ I am taking up the 100 days of LeetCode challenge to challenge mysellf over main
 ## Day11
 1. Symmetric Tree
 2. maximum Depth
+
+## Day12
+1. Invert Binary Tree
