@@ -33,32 +33,45 @@ I am taking up the 100 days of LeetCode challenge to challenge mysellf over main
 2. Search Sorted 2D Matrix
 
 ## Day6
+
 1. First Unique Character in String
 2. RansomNote
 3. Is Anagram
 
 ## Day7
+
 1. Linked List has Cycle
 2. Merge Two Sorted Lists
 3. Remove Linked List Elements
 4. Remove Node from List 
 
 ## Day8
+
 1. Reverse LinkedList
 2. Delete Duplicates from LinkedList
 
 ## Day9
+
 1. Valid Parenthesis
 2. Queue Using Stack
 
 ## Day10
+
 1. Pre-Order Traversal
 2. In-Order Traversal
 3. Post-Order Traversal
 
 ## Day11
+
 1. Symmetric Tree
 2. maximum Depth
 
 ## Day12
+
 1. Invert Binary Tree
+2. Path Sum
+
+## Day13
+
+1. Search key in BST
+2. Insert Node in BST
