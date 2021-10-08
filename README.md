@@ -43,7 +43,7 @@ I am taking up the 100 days of LeetCode challenge to challenge mysellf over main
 1. Linked List has Cycle
 2. Merge Two Sorted Lists
 3. Remove Linked List Elements
-4. Remove Node from List 
+4. Remove Node from List
 
 ## Day8
 
@@ -75,3 +75,12 @@ I am taking up the 100 days of LeetCode challenge to challenge mysellf over main
 
 1. Search key in BST
 2. Insert Node in BST
+
+## Day14
+
+1. Valid BST
+
+## Day15
+
+1. Single Number
+2. Majority Element
