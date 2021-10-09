@@ -84,3 +84,8 @@ I am taking up the 100 days of LeetCode challenge to challenge mysellf over main
 
 1. Single Number
 2. Majority Element
+
+## Day16
+
+1. Sort colors
+2. HashMap C++
