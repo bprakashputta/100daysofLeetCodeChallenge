@@ -36,3 +36,28 @@ vector<int> findDisappearedNumbers(vector<int>& nums) {
     }
 return ans;
 }
+
+// Optimal Code
+vector<int> findDisappearedNumbers(vector<int>& nums) {
+    vector<int> res;
+    
+    for(int i=0; i<nums.size(); i++){
+        // Get the index of the currth element
+        int curr = abs(nums[i]);
+        // Mark the currth index negative
+        nums[curr-1] = -(abs(nums[curr-1]));
+    }
+    
+
+    // now after iterating through the
+    // array and marking elements negative,
+    // if there is any index, whose value is positive,
+    // then that index element is not there in the array.
+    for(int i=0; i<nums.size(); i++){
+        if(nums[i] > 0){
+            res.push_back(i+1);
+        }
+    }
+    
+return res;
+}
