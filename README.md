@@ -89,3 +89,17 @@ I am taking up the 100 days of LeetCode challenge to challenge mysellf over main
 
 1. Sort colors
 2. HashMap C++
+
+## Day17
+
+1. 3Sum
+
+## Day18
+
+
+## Day19
+1. Find All Disappearing Numbers in Range
+2. Third Max Element in Array
+
+## Day20
+1. Merge Intervals
