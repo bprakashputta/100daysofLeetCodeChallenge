@@ -104,3 +104,8 @@ I am taking up the 100 days of LeetCode challenge to challenge mysellf over main
 ## Day20
 1. Merge Intervals
 2. Top View of Binary Tree
+
+## Day21
+1. Level Order Traversal
+2. Minimum Height of Binary Tree
+3. Right View of Binary Tree
