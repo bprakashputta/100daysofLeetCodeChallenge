@@ -18,7 +18,7 @@ void rotate(vector<vector<int>>& mat){
     }
     
     for(int i=0; i<mat.size(); i++){
-        reverse(mat.begin(), mat.end());
+        reverse(mat[i].begin(), mat[i].end());
     }
     
     for(int i=0; i<mat.size(); i++){
