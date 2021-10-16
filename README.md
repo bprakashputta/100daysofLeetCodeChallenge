@@ -109,3 +109,7 @@ I am taking up the 100 days of LeetCode challenge to challenge mysellf over main
 1. Level Order Traversal
 2. Minimum Height of Binary Tree
 3. Right View of Binary Tree
+4. Bottom Up Level Order Traversal
+
+## Day22
+1. 
