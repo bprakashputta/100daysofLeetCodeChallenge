@@ -2,6 +2,8 @@
 #include<string>
 using namespace std;
 
+// Remove Colored Pieces if Both Neighbors are the Same Color 
+// https://leetcode.com/problems/remove-colored-pieces-if-both-neighbors-are-the-same-color
 bool winnerOfGame(string colors) {
     if(colors.length()<3){
         return false;

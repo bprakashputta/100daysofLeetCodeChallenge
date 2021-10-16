@@ -98,20 +98,33 @@ I am taking up the 100 days of LeetCode challenge to challenge mysellf over main
 
 
 ## Day19
+
 1. Find All Disappearing Numbers in Range
 2. Third Max Element in Array
 
 ## Day20
+
 1. Merge Intervals
 2. Top View of Binary Tree
 
 ## Day21
+
 1. Level Order Traversal
 2. Minimum Height of Binary Tree
 3. Right View of Binary Tree
 4. Bottom Up Level Order Traversal
 
 ## Day22
+
 1. RowIndexth Row of Pascal Triangle
 2. Rotate Matrix by 90 degrees
 3. Check Rotation of Matrix results target Matrix
+4. Binary Search
+5. Bottom Left Node Value
+6. Bottom View
+7. First Bad Version
+8. Minimum Moves to arrange Seating
+9. Pascal Triangle 2
+10. Search Element in Vector
+11. Search Matrix 2
+12. Remove Colored Pieces if Both Neighbors are the Same Color 

@@ -2,6 +2,8 @@
 #include<vector>
 using namespace std;
 
+// Minimum Number of Moves to Seat Everyone 
+// https://leetcode.com/problems/minimum-number-of-moves-to-seat-everyone
 int minMovesToSeat(vector<int>& seats, vector<int>& students) {
     map<int,int> mp;
     
