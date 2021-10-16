@@ -112,4 +112,6 @@ I am taking up the 100 days of LeetCode challenge to challenge mysellf over main
 4. Bottom Up Level Order Traversal
 
 ## Day22
-1. 
+1. RowIndexth Row of Pascal Triangle
+2. Rotate Matrix by 90 degrees
+3. Check Rotation of Matrix results target Matrix
