@@ -41,5 +41,8 @@ vector<int> leftView(TreeNode* root){
             }
         }
     }
+    for(auto it:mp){
+        ans.push_back(it.second);
+    }
 return ans;
 }
