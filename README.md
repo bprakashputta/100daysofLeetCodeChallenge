@@ -128,3 +128,12 @@ I am taking up the 100 days of LeetCode challenge to challenge mysellf over main
 10. Search Element in Vector
 11. Search Matrix 2
 12. Remove Colored Pieces if Both Neighbors are the Same Color 
+
+## Day23
+
+1. Check Numbers of Sentence are in Ascending Order
+2. Design HashMap
+3. Majority Element 2
+4. Maximum Depth of Binary Tree
+5. Rotate Vector to the right by K Places
+6. Sorted Squares of Vector
