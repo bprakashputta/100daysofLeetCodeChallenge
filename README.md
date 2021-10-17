@@ -102,6 +102,8 @@ I am taking up the 100 days of LeetCode challenge to challenge mysellf over main
 1. Find All Disappearing Numbers in Range
 2. Third Max Element in Array
 
+<!-- From this Day, I started working Full-time on LeetCode Problem Solving -->
+
 ## Day20
 
 1. Merge Intervals
@@ -137,3 +139,7 @@ I am taking up the 100 days of LeetCode challenge to challenge mysellf over main
 4. Maximum Depth of Binary Tree
 5. Rotate Vector to the right by K Places
 6. Sorted Squares of Vector
+
+
+Total:- 
+Questions :- 59 
