@@ -141,5 +141,6 @@ I am taking up the 100 days of LeetCode challenge to challenge mysellf over main
 6. Sorted Squares of Vector
 
 
-Total:- 
+## Total:- 
+
 Questions :- 59 
