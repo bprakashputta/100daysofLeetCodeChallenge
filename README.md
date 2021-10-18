@@ -140,6 +140,11 @@ I am taking up the 100 days of LeetCode challenge to challenge mysellf over main
 5. Rotate Vector to the right by K Places
 6. Sorted Squares of Vector
 
+## Day24
+
+1. Move zeroes
+2. Two Sum
+
 
 ## Total:- 
 
