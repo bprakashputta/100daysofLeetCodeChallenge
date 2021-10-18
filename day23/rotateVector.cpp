@@ -36,12 +36,15 @@ void rotate(vector<int>& nums, int k){
     // rotated [5,6,7,1,2,3,4]
     cout<<"K:"<<k<<endl;
     vector<int> temp; 
+    // Copied last k elements in temp 
     for(int i=nums.size()-k; i<nums.size(); i++){
         temp.push_back(nums[i]);
     }
+    // Move remaining elements to right by k positions
     for(int i=nums.size()-k-1; i>=0;i--){
         nums[i+k] = nums[i];
     }
+    // copy back to those last k elements to start
     for(int i=0; i<k; i++){
         nums[i] = temp[i];
     }
