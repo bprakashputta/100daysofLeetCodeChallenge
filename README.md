@@ -157,4 +157,4 @@ I am taking up the 100 days of LeetCode challenge to challenge mysellf over main
 5. Test Match Series(SnackDown21)
 ## Total:- 
 
-Questions :- 64 + 3(Day25)
+Questions :- 64 + 5(Day25)
