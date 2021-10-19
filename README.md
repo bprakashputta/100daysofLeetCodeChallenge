@@ -148,6 +148,12 @@ I am taking up the 100 days of LeetCode challenge to challenge mysellf over main
 4. Iterative PreOrder Traversal
 5. Iterative Postorder Traversal
 
+## Day25
+
+1. Two Sum 4
+2. Reverse String
+3. Reverse Words in a String
+
 ## Total:- 
 
 Questions :- 64
