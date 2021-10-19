@@ -153,7 +153,8 @@ I am taking up the 100 days of LeetCode challenge to challenge mysellf over main
 1. Two Sum 4
 2. Reverse String
 3. Reverse Words in a String
-
+4. Lucky Number(SnackDown21)
+5. Test Match Series(SnackDown21)
 ## Total:- 
 
-Questions :- 64
+Questions :- 64 + 3(Day25)
