@@ -144,8 +144,10 @@ I am taking up the 100 days of LeetCode challenge to challenge mysellf over main
 
 1. Move zeroes
 2. Two Sum
-
+3. Iterative Inorder Traversal
+4. Iterative PreOrder Traversal
+5. Iterative Postorder Traversal
 
 ## Total:- 
 
-Questions :- 59 
+Questions :- 64
