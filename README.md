@@ -159,7 +159,14 @@ I am taking up the 100 days of LeetCode challenge to challenge mysellf over main
 7. Add Two Numbers
 
 ## Day26
-1. Maximum Number of Distinct Elements(SnackDown21)
+
+1. 4 Sum 
+2. 3 Sum
+3. Doubly Linkedlist Insertion
+4. Reverse Doubly Linkedlist
+5. Find Merger Node of Lists
+6. List Has Cycle
+7. Maximum Number of Distinct Elements(SnackDown21)
 
 ## Total:- 
 
