@@ -172,6 +172,8 @@ I am taking up the 100 days of LeetCode challenge to challenge mysellf over main
 
 1. Return Middle Node of List
 2. Delete Nth node from Last of List
+3. Detect Cycle 2
+4. Multiply Numbers
 
 ## Total:- 
 
