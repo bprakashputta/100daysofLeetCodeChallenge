@@ -168,6 +168,11 @@ I am taking up the 100 days of LeetCode challenge to challenge mysellf over main
 6. List Has Cycle
 7. Maximum Number of Distinct Elements(SnackDown21)
 
+## Day27
+
+1. Return Middle Node of List
+2. Delete Nth node from Last of List
+
 ## Total:- 
 
 Questions :- 81
