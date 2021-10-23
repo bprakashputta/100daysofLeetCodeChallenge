@@ -175,6 +175,22 @@ I am taking up the 100 days of LeetCode challenge to challenge mysellf over main
 3. Detect Cycle 2
 4. Multiply Numbers
 
+## Day28
+
+1. Calculation of nCr
+2. Sort Map by Values
+3. Unique Paths in Matrix
+4. Unique Paths in Matrix 2
+5. Sort String By Frequency
+6. Pascal Triangle 3
+
+## Day29
+
+1. Fibonacci Series Dynamic Programming
+2. Minimum Of Rotated Sorted Array
+3. Stack Using Queue
+
+
 ## Total:- 
 
-Questions :- 81
+Questions :- 91 + 3(now)
