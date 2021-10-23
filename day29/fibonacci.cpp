@@ -4,10 +4,10 @@ using namespace std;
 
 const int N = 1e3+2, MOD = 1e9+7;
 
-void fibo(int n, vector<int>& fib){
+int fibo(int n, vector<int>& fib){
     if(n<2){
         fib[n] = n;
-        return;
+        return fib[n];
     }else{
         if(fib[n] != -1){
             return fib[n];
@@ -15,11 +15,13 @@ void fibo(int n, vector<int>& fib){
             fib[n] = fibo(n-1, fib) + fibo(n-2, fib);
         }
     }
+return fib[n];
 }
 
 int main(){
-    int n = 10;
+    int n = 5;
     vector<int> fib(n+1,-1);
-    fibo(n, fib);
-
+    int f = fibo(n, fib);
+    cout<<f<<endl;
+return 0;
 }
