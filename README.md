@@ -196,8 +196,9 @@ I am taking up the 100 days of LeetCode challenge to challenge mysellf over main
 
 1. Diameter of Binary Tree
 2. Maximum Height of Binary Tree
-
+3. Identical Trees
+4. Zig Zag Tree Traversal
 
 ## Total:- 
 
-Questions :- 91 + 4
+Questions :- 95 + 4(now)
