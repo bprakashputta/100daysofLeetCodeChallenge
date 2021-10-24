@@ -199,6 +199,7 @@ I am taking up the 100 days of LeetCode challenge to challenge mysellf over main
 3. Identical Trees
 4. Zig Zag Tree Traversal
 5. Total Number of Nodes in Complete Binary Tree
+
 ## Total:- 
 
-Questions :- 95 + 4(now)
+Questions :- 100
