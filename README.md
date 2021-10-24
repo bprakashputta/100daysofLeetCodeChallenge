@@ -189,6 +189,13 @@ I am taking up the 100 days of LeetCode challenge to challenge mysellf over main
 1. Fibonacci Series Dynamic Programming
 2. Minimum Of Rotated Sorted Array
 3. Stack Using Queue
+4. Queue Using Stack
+
+
+## Day30
+
+1. Diameter of Binary Tree
+2. Maximum Height of Binary Tree
 
 
 ## Total:- 
