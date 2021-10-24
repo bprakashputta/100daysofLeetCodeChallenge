@@ -198,7 +198,7 @@ I am taking up the 100 days of LeetCode challenge to challenge mysellf over main
 2. Maximum Height of Binary Tree
 3. Identical Trees
 4. Zig Zag Tree Traversal
-
+5. Total Number of Nodes in Complete Binary Tree
 ## Total:- 
 
 Questions :- 95 + 4(now)
