@@ -206,6 +206,11 @@ I am taking up the 100 days of LeetCode challenge to challenge mysellf over main
 2. Reverse LinkedList
 3. Sort LinkedList
 
+## Day32
+1. Invert Binary Tree
+2. Zig Zag Conversion
+3. String to Integer
+
 ## Total:- 
 
-Questions :- 103
+Questions :- 106
