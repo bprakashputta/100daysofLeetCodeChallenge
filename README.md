@@ -200,6 +200,12 @@ I am taking up the 100 days of LeetCode challenge to challenge mysellf over main
 4. Zig Zag Tree Traversal
 5. Total Number of Nodes in Complete Binary Tree
 
+## Day31
+
+1. Merge Two Lists
+2. Reverse LinkedList
+3. Sort LinkedList
+
 ## Total:- 
 
-Questions :- 100
+Questions :- 103
