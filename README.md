@@ -207,9 +207,14 @@ I am taking up the 100 days of LeetCode challenge to challenge mysellf over main
 3. Sort LinkedList
 
 ## Day32
+
 1. Invert Binary Tree
 2. Zig Zag Conversion
 3. String to Integer
+
+## Day33
+
+1. Sort Colors
 
 ## Total:- 
 
