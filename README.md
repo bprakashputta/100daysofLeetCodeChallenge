@@ -215,7 +215,12 @@ I am taking up the 100 days of LeetCode challenge to challenge mysellf over main
 ## Day33
 
 1. Sort Colors
+2. Mongo DB Tutorial - Mosh Hedani NodeJs Course
+
+## Day34
+
+1. Implemented Customer and Genre API endpoint for Vidly App
 
 ## Total:- 
 
-Questions :- 106
+LeetCode Questions :- 107
