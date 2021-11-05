@@ -221,6 +221,49 @@ I am taking up the 100 days of LeetCode challenge to challenge mysellf over main
 
 1. Implemented Customer and Genre API endpoint for Vidly App
 
+## Day35
+
+1. Movies REST API in NodeJs
+2. Rental REST API in NodeJs
+
+## Day36
+
+1. Rental REST API in NodeJs
+
+## Day37
+
+1. Mongo dB documents
+2. Object ID validation
+
+## Day38
+
+1. Signup API in NodeJs
+2. Login API in NodeJs.
+
+## Day39
+
+1. JSON Web Tokens in NodeJs
+2. Surrounding areas Leetcode
+## Day40
+
+1. Minimum number of webs required to reach last building
+2. Used Logged in middleware in NodeJs
+
+## Day41
+
+1. Fibonacci Series
+2. Tribonacci Series
+3. A Frog Greedy
+
+## Day42
+
+1. A Frog DP
+2. Azure App Service
+
+## Day43
+
+1. 
+
 ## Total:- 
 
-LeetCode Questions :- 107
+LeetCode Questions :- 110 
