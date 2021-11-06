@@ -262,8 +262,13 @@ I am taking up the 100 days of LeetCode challenge to challenge mysellf over main
 
 ## Day43
 
-1. 
+1. Cheap Fuel 
+2. Equal Coins
 
+
+## Day44
+
+1. Arrange Coins
 ## Total:- 
 
-LeetCode Questions :- 110 
+LeetCode Questions :- 112
