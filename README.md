@@ -269,6 +269,9 @@ I am taking up the 100 days of LeetCode challenge to challenge mysellf over main
 ## Day44
 
 1. Arrange Coins
+2. Single Number 3
+3. Sum of Left Leaves in Binary Tree
+4. Auth middleware in NodeJs
 ## Total:- 
 
-LeetCode Questions :- 112
+LeetCode Questions :- 115
