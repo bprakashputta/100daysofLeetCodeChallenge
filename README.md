@@ -272,6 +272,13 @@ I am taking up the 100 days of LeetCode challenge to challenge mysellf over main
 2. Single Number 3
 3. Sum of Left Leaves in Binary Tree
 4. Auth middleware in NodeJs
+
+## Day45
+
+1. Max Occurring Character in String
+2. Multiply Strings
+3. Remove Duplicates from Array
+
 ## Total:- 
 
-LeetCode Questions :- 115
+LeetCode Questions :- 118
