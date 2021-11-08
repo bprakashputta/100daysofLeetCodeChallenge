@@ -279,6 +279,12 @@ I am taking up the 100 days of LeetCode challenge to challenge mysellf over main
 2. Multiply Strings
 3. Remove Duplicates from Array
 
+
+## Day46
+
+1. Number of Unique BST
+
+
 ## Total:- 
 
-LeetCode Questions :- 118
+LeetCode Questions :- 119 + (1)
