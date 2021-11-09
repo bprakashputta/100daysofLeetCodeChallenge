@@ -283,7 +283,13 @@ I am taking up the 100 days of LeetCode challenge to challenge mysellf over main
 ## Day46
 
 1. Number of Unique BST
-2. Sliding Window Maximum
+2. Sliding Window Maximum (TLE for large N values)
+
+
+## Day47
+
+1. Sliding Window Maximum (Optimal using deque)
+
 
 ## Total:- 
 
