@@ -292,7 +292,8 @@ I am taking up the 100 days of LeetCode challenge to challenge mysellf over main
 2. Maximum Sum Subarray
 3. Maximum Product Subarray
 4. Maximum Product of Three Numbers
+5. Frequency of digits in a String
 
 ## Total:- 
 
-LeetCode Questions :- 124
+LeetCode Questions :- 126
