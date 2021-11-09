@@ -291,6 +291,7 @@ I am taking up the 100 days of LeetCode challenge to challenge mysellf over main
 1. Sliding Window Maximum (Optimal using deque)
 2. Maximum Sum Subarray
 3. Maximum Product Subarray
+4. Maximum Product of Three Numbers
 
 ## Total:- 
 
