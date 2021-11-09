@@ -12,7 +12,7 @@ int main(){
     for(int i=0; str[i]!='\0'; i++){
         len++;
     }
-
+    // iterate array and find frequency
     for(int i=0; i<len; i++){
         if(str[i]>='0'&&str[i]<='9'){
             freq[str[i]-'0']++;
