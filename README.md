@@ -290,7 +290,8 @@ I am taking up the 100 days of LeetCode challenge to challenge mysellf over main
 
 1. Sliding Window Maximum (Optimal using deque)
 2. Maximum Sum Subarray
+3. Maximum Product Subarray
 
 ## Total:- 
 
-LeetCode Questions :- 121 + (2)
+LeetCode Questions :- 124
