@@ -293,6 +293,9 @@ I am taking up the 100 days of LeetCode challenge to challenge mysellf over main
 3. Maximum Product Subarray
 4. Maximum Product of Three Numbers
 5. Frequency of digits in a String
+6. Number of Valid Words in each Puzzle
+<!-- ["aaaa","asas","able","ability","actt","actor","access"]
+["aboveyz","abrodyz","abslute","absoryz","actresz","gaswxyz"] -->
 
 ## Total:- 
 
