@@ -289,8 +289,8 @@ I am taking up the 100 days of LeetCode challenge to challenge mysellf over main
 ## Day47
 
 1. Sliding Window Maximum (Optimal using deque)
-
+2. Maximum Sum Subarray
 
 ## Total:- 
 
-LeetCode Questions :- 121
+LeetCode Questions :- 121 + (2)
