@@ -299,4 +299,4 @@ I am taking up the 100 days of LeetCode challenge to challenge mysellf over main
 
 ## Total:- 
 
-LeetCode Questions :- 126
+LeetCode Questions :- 127
