@@ -303,6 +303,13 @@ I am taking up the 100 days of LeetCode challenge to challenge mysellf over main
 2. Error handling middlewares in NodeJs
 3. Azure App Service - Web App Deployment
 
+## Day49
+
+1. Minimum start value to get positive sum from array
+2. 
+
+Azure Module 1 complete:
+
 ## Total:- 
 
 LeetCode Questions :- 128
