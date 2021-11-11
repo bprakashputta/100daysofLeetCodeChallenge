@@ -306,7 +306,7 @@ I am taking up the 100 days of LeetCode challenge to challenge mysellf over main
 ## Day49
 
 1. Minimum start value to get positive sum from array
-2. 
+2. Minimum Number of operations to make array increasing
 
 Azure Module 1 complete:
 
