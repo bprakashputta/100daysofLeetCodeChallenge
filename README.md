@@ -308,6 +308,7 @@ I am taking up the 100 days of LeetCode challenge to challenge mysellf over main
 1. Minimum start value to get positive sum from array
 2. Minimum Number of operations to make array increasing
 3. Missing Number
+4. Smallest Range 2
 
 Azure Module 1 complete:
 
