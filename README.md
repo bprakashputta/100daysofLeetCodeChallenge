@@ -309,9 +309,24 @@ I am taking up the 100 days of LeetCode challenge to challenge mysellf over main
 2. Minimum Number of operations to make array increasing
 3. Missing Number
 4. Smallest Range 2
-
 Azure Module 1 complete:
 
+## Day50
+
+1. Took part in Amazon SDE1 hiring challenge - HackerEarth
+2. Azure Module 2 - App Service Settings
+## Day51
+
+1. Took part in Siemens SDE hiring challenge - HackerEarth
+2. Daily Temperature
+
+## Day52
+
+1. Took part in Scaler SDE Intern 2022 hiring challenge - InterviewBit
+
+## Day53
+
+1. Bunty and Biscuts
 ## Total:- 
 
 LeetCode Questions :- 132
