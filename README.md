@@ -329,8 +329,10 @@ Azure Module 1 complete:
 1. Bunty and Biscuts
 2. Maximum Product of K integers(Incomplete)
 
+## Day54
 
+1. Sum of all Odd length Subarray Sums
 
 ## Total:- 
 
-LeetCode Questions :- 132
+LeetCode Questions :- 132 + 2(now) 
