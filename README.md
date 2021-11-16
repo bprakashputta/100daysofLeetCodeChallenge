@@ -332,7 +332,8 @@ Azure Module 1 complete:
 ## Day54
 
 1. Sum of all Odd length Subarray Sums
-
+2. User Schema for E-commerce Backend
+3. Signup route for user E-commerce Backend
 ## Total:- 
 
 LeetCode Questions :- 132 + 2(now) 
