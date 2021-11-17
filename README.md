@@ -339,7 +339,12 @@ Azure Module 1 complete:
 ## Day55
 
 1. Children Sum property
-2. 
+2. Kedane's Algorithm
+3. Rotten Oranges
+4. Insert BST
+5. Search BST
+6. Delete Node in BST
+
 ## Total:- 
 
 LeetCode Questions :- 132 + 2(now) 
