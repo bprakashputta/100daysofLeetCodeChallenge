@@ -20,7 +20,6 @@ bool rootToNodePath(TreeNode* root, int x, vector<int> &path){
 
     path.push_back(root->data);
     if(root->data == x){
-        path.push_back(x);
         return true;
     }
     if(rootToNodePath(root->left, x, path) || rootToNodePath(root->right, x, path)){
