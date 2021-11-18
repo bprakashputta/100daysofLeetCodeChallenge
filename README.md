@@ -344,6 +344,13 @@ Azure Module 1 complete:
 5. Search BST
 6. Delete Node in BST
 
+## Day56
+
+1. Erase Overlapping Sub-Intervals
+2. Lowest Common Ancestor
+3. Merge Intervals
+4. Valid Parenthesis
+
 ## Total:- 
 
 LeetCode Questions :- 132 + 2(now) 
