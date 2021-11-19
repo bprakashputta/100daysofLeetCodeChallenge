@@ -350,6 +350,8 @@ Azure Module 1 complete:
 2. Lowest Common Ancestor
 3. Merge Intervals
 4. Valid Parenthesis
+5. Root to Node Path
+6. Maximum Width of Binary Tree
 
 ## Total:- 
 
