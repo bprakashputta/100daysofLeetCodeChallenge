@@ -353,6 +353,12 @@ Azure Module 1 complete:
 5. Root to Node Path
 6. Maximum Width of Binary Tree
 
+## Day65
+
+1. Longest Substring without repeating characters
+
+
+
 ## Total:- 
 
 LeetCode Questions :- 132 + 2(now) 
