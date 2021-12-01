@@ -358,6 +358,10 @@ Azure Module 1 complete:
 1. Longest Substring without repeating characters
 
 
+## Day70
+
+1. Playing with JS on Karel IDE 
+
 
 ## Total:- 
 
