@@ -363,6 +363,10 @@ Azure Module 1 complete:
 1. Playing with JS on Karel IDE 
 
 
+## Day72
+
+1. Shuffle Array.
+
 ## Total:- 
 
 LeetCode Questions :- 132 + 2(now) 
