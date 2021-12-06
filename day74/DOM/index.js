@@ -1,2 +1,1 @@
-alert("Hello");
-document.querySelector('h1').innerHTML = "GoodBye!";
+document.getElementsByClassName('list')[2].innerHTML = "Bhanu"
