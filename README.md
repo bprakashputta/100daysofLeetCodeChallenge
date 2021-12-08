@@ -382,6 +382,11 @@ Azure Module 1 complete:
 1. DOM manipulation
 2. Dice Challenge
 3. Drum Kit Project
+
+## Day75
+
+1.
+
 ## Total:- 
 
 LeetCode Questions :- 132 + 2(now) 
