@@ -1,0 +1,101 @@
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Grocery System</title>
+    <link rel="stylesheet" href="./index.css">
+</head>
+
+<body>
+    <header style="background-color: rgb(253, 205, 146); padding: 5px;">
+        <h1>Grocery System</h1>
+    </header><span><hr></span>
+    <br>
+
+    <main>
+        <div class="items-block">
+            <h2 style="text-align: center;">Add items to the shelves</h2>
+            <div class="items-input">
+                <div>
+                    <label id="heading-1" for="item-name">Item Name:</label><span>
+                    <input type="text" size="70" name="item-name" id="item-name">        
+                </div>               
+                <div>
+                    <div id="heading-1">
+                        <p>Shelves Category</p>
+                    </div>
+                    <div id="heading-2">
+                        <button class="items item-vegetables" id="item-vegetables">ADD TO VEGETABLE SHELVES</button><br>
+                        <button class="items item-fruits" id="item-fruits">ADD TO FRUITS SHELVES</button><br>
+                        <button class="items item-softdrinks" id="item-softdrinks">ADD TO SOFT DRINKS SHELVES</button><br>
+                    </div>
+                </div>
+                </span>
+                </div><br>
+            </div>
+        </div>
+
+
+        <div id="shelves">
+            <h1 style="text-align: center;">Shelves</h1>
+
+            <div id="vegetables">
+                <h3 style="text-align: center;">Vegetables</h3>
+                <hr>
+                <ul id="vegetablesList">
+                </ul>
+            </div>
+
+            <div id="fruits">
+                <h3 style="text-align: center;">Fruits</h3>
+                <hr>
+                <ul id="fruitsList">
+                </ul>
+            </div>
+
+            <div id="softdrinks">
+                <h3 style="text-align: center;">Soft Drinks</h3>
+                <hr>
+                <ul id="softdrinksList">
+                </ul>
+            </div>
+        </div>
+    </main>
+
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
+    <script>
+        $('#item-vegetables').off('click').on('click', function() {
+            let val = $('#item-name').val();
+            if (val !== undefined && val !== '') {
+                $('#vegetablesList').append(`<li>${val}</li>`);
+                //$('#newItem').val('');  // Use this line if you want to append the data and clear input box.
+            } else {
+                //display message or action if input value is blank
+            }
+        });
+
+        $('#item-fruits').off('click').on('click', function() {
+            let val = $('#item-name').val();
+            if (val !== undefined && val !== '') {
+                $('#fruitsList').append(`<li>${val}</li>`);
+                //$('#newItem').val('');  // Use this line if you want to append the data and clear input box.
+            } else {
+                //display message or action if input value is blank
+            }
+        });
+
+        $('#item-softdrinks').off('click').on('click', function() {
+            let val = $('#item-name').val();
+            if (val !== undefined && val !== '') {
+                $('#softdrinksList').append(`<li>${val}</li>`);
+                //$('#newItem').val('');  // Use this line if you want to append the data and clear input box.
+            } else {
+                //display message or action if input value is blank
+            }
+        });
+    </script>
+</body>
+
+</html>
