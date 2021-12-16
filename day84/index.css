@@ -1,15 +1,4 @@
-/* .items-block {
-    /* background-color: bisque; */
-
-
-/* text-align: center;
-    border: 1px solid green;
-    padding: 50px;
-    margin: 20px; */
-
-
-}
-*/ .items-input {
+.items-input {
     background-color: bisque;
     text-align: center;
     border: 1px solid green;
@@ -18,11 +7,13 @@
     align-items: center;
 }
 
+
 /* 
 .item-name {
     margin: 5px;
     width: 500px;
 } */
+
 .items {
     margin: 5px;
     width: 500px;
@@ -31,35 +22,42 @@
     display: inline-block;
     font-size: 16px;
 }
+
 #shelves {}
+
 #heading-1 {
     float: left;
     width: 30%;
 }
+
 #heading-2 {
     text-align: center;
     top: center;
     float: left;
     width: 60%;
 }
+
 #vegetables {
     float: left;
     background: Green;
     width: 30%;
     height: 280px;
 }
+
 #fruits {
     float: left;
     background: yellow;
     width: 30%;
     height: 280px;
 }
+
 #softdrinks {
     float: left;
     background: maroon;
     width: 30%;
     height: 280px;
 }
+
 h1 {
     text-align: center;
 }
